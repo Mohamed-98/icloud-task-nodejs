@@ -16,8 +16,8 @@ This is a simple Task Management API built with Node.js and Express.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/task-management-api.git
-    cd task-management-api
+    git clone https://github.com/Mohamed-98/icloud-task-nodejs.git
+    cd icloud-task-nodejs.git
     ```
 
 2. Install dependencies:
